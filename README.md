@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Vivaldi Rasyid**.<br>
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
